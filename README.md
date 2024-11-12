@@ -1,6 +1,6 @@
 ## ExpNo:10 Implementation of Classical Planning Algorithm
-# Name:Sai Praneeth K
-# Reg No:212222230067
+### Name:Sai Praneeth K
+### Reg No:212222230067
 ## Aim:
 To solve Implementation of Classical Planning Algorithm using python.
 ## Algorithm or Steps Involved:
